@@ -2,7 +2,7 @@
   "AB":{
     "A":{
       "U":"https://www.80jili.com?code=euHEZI8QJd",
-      "isT":true,
+      "isT":false,
       "isJ":false,
       "Area":["PH","IN","BR","HK","GB"],
 	  "Event":["deposit","depositSubmit","deposit-success","firstDeposit","firstDepositArrival","first-deposit-success","firstOpen","first-recharge-success","register","registerSubmit","register-success","signup-success","withdraw"],
